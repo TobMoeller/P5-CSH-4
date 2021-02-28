@@ -18,6 +18,35 @@ namespace P5_CSH_4 {
     /// Interaktionslogik für MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window {
+        /*
+            Praktische Übung GUI
+
+            - DB-Tabelle für Aufgaben:
+            ID(eindeutig und fortlaufend) (int, autoincrement, Primary Key, Unique)
+            Kurzbezeichnung(varchar 30)
+            Aufgabenbeschreibung(max. 100 Zeichen) (varchar 100)
+            Erledigt(bool)
+
+            *********************************************************************
+
+            Oberfläche:
+            Menüfunktionen für Neu, Ändern, Löschen, Anzeige einzelner, Anzeige aller Aufgaben und getrennt nach erledigt oder nicht erledigt
+            Statusanzeige in Statusbar/Label(Anzahl aller Datensätze, Rest nach Gutdünken)
+
+            1. Entwurf der Struktur und der DB-Tabelle
+	            - XAML
+	            - Klassen
+	            - DB-Tabelle
+
+            - Welche Elemente brauche ich?
+            - Wie ist die Reihenfolge dieser?
+            - Was sollen die Elemente handeln?
+
+            1a.Aufbau der SQL-Befehle 
+
+            2. Codieren der Klassen und der GUI-Funktionalität
+        */
+
         public MainWindow() {
             InitializeComponent();
         }

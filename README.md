@@ -22,6 +22,8 @@ Third programming class during retraining
 
 ---
 
+![app UI](https://github.com/TobMoeller/P5-CSH-4/blob/main/UI.jpg?raw=true)
+
 ## Small Feature showcase
 
 This was a small project we did during class to play around with what we learned about WPF and database connections. So i went ahead and tried to improve on a few things:

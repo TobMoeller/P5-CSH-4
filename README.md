@@ -1,5 +1,5 @@
 # P5-CSH-4
-Third programming class during retraining
+Fifth programming class during retraining
 
 ## What is it about?
 

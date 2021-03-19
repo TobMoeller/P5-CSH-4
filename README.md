@@ -6,7 +6,7 @@ Fifth programming class during retraining
 - making school notes
 - solving school tasks
 - sharing and collaborating with class mates
-- showcasing some of my Code in C#
+- showcasing some of my code in C#
 
 ### Features
 
@@ -24,13 +24,13 @@ Fifth programming class during retraining
 
 ![app UI](https://github.com/TobMoeller/P5-CSH-4/blob/main/UI.jpg?raw=true)
 
-## Small Feature showcase
+## Small feature showcase
 
 This was a small project we did during class to play around with what we learned about WPF and database connections. So i went ahead and tried to improve on a few things:
 
 ### database
 
-At first i tryed to separate the tasks more clearly and made a `Database` class that was supposed to handle most of the communication part to the database itself.
+At first i tried to separate the tasks more clearly and made a `Database` class that was supposed to handle most of the communication part to the database itself.
 
 Then i wanted to make it more dynamic: Every instance of the class should be its own connection to a database, so it could be used to handle multiple database connections at once (For this i also implemented a separate login screen).
 
